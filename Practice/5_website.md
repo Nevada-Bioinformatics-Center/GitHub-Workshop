@@ -15,7 +15,7 @@ You now have a local copy of the workshop's repository.
 1. Go to your GitHub profile and click the **+** button in the top-right corner, then select **New repository**.
 2. Name the repository as **username.github.io**, replacing "username" with your GitHub username (e.g., `johnDoe.github.io`). You must use your GitHub profiles's username.
 3. Set the repository to **Public** and click **Create repository**.
-4. Clone this new repository to your local machine using **GitHub Desktop** the same way you did in Step 1.
+4. Clone this new repository to your local machine using **GitHub Desktop**. You can click on **Open in GitHub Destop** on the respository front page.
 
 ## Step 3: Initialize the Respositry by Adding a README.md
 

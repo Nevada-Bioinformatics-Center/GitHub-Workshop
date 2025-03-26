@@ -5,8 +5,6 @@ A Nevada Bioinformatics Core workshop on GitHub for beginners. This workshop is 
 ## Table of Contents
 1. [Workshop Description](#workshop-description)
 2. [Workshop Outline](#workshop-outline)
-   - [Day 1: GitHub Basics](#day-1-github-basics)
-   - [Day 2: Branching and Personal Websites](#day-2-branching-and-personal-websites)
 3. [Learning Objectives](#learning-objectives)
 4. [Prerequisites](#prerequisites)
 5. [Materials Needed](#materials-needed)
@@ -19,7 +17,7 @@ This introductory workshop provides a step-by-step guide to using GitHub online 
 
 ## Workshop Outline
 
-### Day 1: GitHub Basics
+
 1. **Introduction to Version Control and GitHub**
    - Overview of version control and Git.
    - GitHub: navigating, viewing files, and understanding a README.md file.
@@ -39,20 +37,12 @@ This introductory workshop provides a step-by-step guide to using GitHub online 
    - Collaborating with pull/push requests.
    - Hands-on activity: Collaborating with another participant and resolving a conflict.
 
-5. **Q&A and Wrap-Up for Day 1**
-   - Open floor for questions.
-   - Discuss the next sessions' content.
-
-### Day 2: Branching and Personal Websites
-1. **Recap and Review**
-   - Quick recap of Day 1
-
-2. **Introduction to Branching**
+5. **Introduction to Branching**
    - What is branching?
    - How to use branching.
    - Hands-on activity: Branching.
 
-3. **Creating a GitHub.io Personal Website**
+6. **Creating a GitHub.io Personal Website**
    - Introduction to GitHub Pages: turning repositories into static websites.
    - Demonstration of HTML and templates.
    - Hands-on activity: Publish a GitHub Pages website (`username.github.io`).

@@ -7,8 +7,6 @@ This GitHub Workshop is designed to introduce you to the basics of using GitHub 
 2. [Workshop Activites](#workshop-activities)
 3. [Useful Links](#useful-links)
 4. [Workshop Outline](#workshop-outline)
-   - [Part 1: GitHub Basics](#part-1-github-basics-slides)
-   - [Part 2: Branching and Personal Websites](#part-2-branching-and-personal-websites-slides)
 5. [Learning Objectives](#learning-objectives)
 6. [Prerequisites](#prerequisites)
 7. [Materials Needed](#materials-needed)
@@ -36,7 +34,7 @@ Throughout the workshop, you will learn how to:
 
 ## Workshop Outline
 
-### Part 1: GitHub Basics [(Slides)](Day_1.pptx)
+### Introduction to Version Control and GitHub [(Slides)](Presentation.pptx)
 1. **Introduction to Version Control and GitHub**
    - Overview of version control and Git.
    - GitHub: navigating, viewing files, and understanding a README.md file.
@@ -56,17 +54,12 @@ Throughout the workshop, you will learn how to:
    - Collaborating with pull/push requests.
    - [Hands-on activity](Practice/3_collaborate.md): Collaborating with another participant and resolving a conflict.
 
-
-### Part 2: Branching and Personal Websites [(Slides)](Day_2.pptx)
-1. **Recap and Review**
-   - Quick recap of Part 1
-
-2. **Introduction to Branching**
+5. **Introduction to Branching**
    - What is branching?
    - How to use branching.
    - [Hands-on activity](Practice/4_branching.md): Branching.
 
-3. **Creating a GitHub.io Personal Website**
+6. **Creating a GitHub.io Personal Website**
    - Introduction to GitHub Pages: turning repositories into static websites.
    - Demonstration of HTML and templates.
    - [Hands-on activity](Practice/5_website.md): Publish a GitHub Pages website (`username.github.io`).
